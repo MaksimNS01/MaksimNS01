@@ -1,10 +1,5 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Maks
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Maks, Machine Learning Engineer
 =========================================================================================================================================
-
-Neural network developer
-------------------------
-
-I started learning HTML, CSS and JavaScript a year ago. Now, I am interested in learning neural networks in Python.
 
 * 🌍  I'm based in Russia
 * ✉️  You can contact me at [nesterenkoms2001@gmail.com](mailto:nesterenkoms2001@gmail.com)
