@@ -5,7 +5,7 @@ Machine Learning Engineer
 -------------------------
 
 * 🌍  I'm based in Russia
-* ✉️  You can contact me at [@nesterenich](http://t.me/nesterenich "Telegram")
+* ✉️  You can contact me at [Telegram](http://t.me/nesterenich "Telegram")
 * 🧠  I'm learning ML
 
 ### Skills
