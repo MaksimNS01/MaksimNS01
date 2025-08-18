@@ -24,6 +24,6 @@ Machine Learning Engineer
 ### Stats
 
 ![MaksimNS01's GitHub stats](https://github-readme-stats.vercel.app/api?username=MaksimNS01&theme=blue_navy&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MaksimNS01&layout=compact)](https://github.com/MaksimNS01/github-readme-stats)
-[![MaksimNS01's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=MaksimNS01)](https://github.com/MaksimNS01/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MaksimNS01&repo=github-readme-stats)](https://github.com/MaksimNS01/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MaksimNS01&theme=blue_navy&repo=github-readme-stats)](https://github.com/MaksimNS01/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MaksimNS01&theme=blue_navy)](https://github.com/MaksimNS01/github-readme-stats)
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=MaksimNS01&theme=blue_navy)](https://github.com/MaksimNS01/github-readme-stats)
