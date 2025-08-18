@@ -25,5 +25,5 @@ Machine Learning Engineer
 
 ![MaksimNS01's GitHub stats](https://github-readme-stats.vercel.app/api?username=MaksimNS01&theme=blue_navy&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MaksimNS01&theme=blue_navy)](https://github.com/MaksimNS01/github-readme-stats)
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/anuraghazra/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=MaksimNS01)](https://github.com/MaksimNS01/github-readme-stats)
 
