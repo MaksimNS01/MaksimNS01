@@ -26,4 +26,4 @@ Machine Learning Engineer
 
 
 ### Stats
-![MaksimNS01's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=blue_navy_icons=true)
+![MaksimNS01's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=blue_navy&show_icons=true)
