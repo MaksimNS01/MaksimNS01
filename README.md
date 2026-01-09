@@ -93,13 +93,6 @@ _____
 
 <p align="left"> <a href="https://www.github.com/MaksimNS01" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="Github" title="Github" /> </picture> </a> <a href="https://www.stackoverflow.com/users/30921465/maxim-nesterenko" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" alt="Stack Overflow" title="Stack Overflow" /> </picture> </a></p>
 
-
-### Статистика
-
-![MaksimNS01's GitHub stats](https://github-readme-stats.vercel.app/api?username=MaksimNS01&theme=blue_navy&show_icons=true)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MaksimNS01&theme=blue_navy)](https://github.com/MaksimNS01/github-readme-stats)
-
 _____
 
 🎯 **Моя цель** — занять позицию Python-разработчика в области компьютерного зрения с фокусом на разработку и внедрение моделей YOLO в коммерческие проекты в сфере безопасности или автономных систем.
